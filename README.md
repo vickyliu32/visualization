@@ -1,4 +1,4 @@
-# visulization
+# visualization
 From the Spotify stream songs analysis project, I wonder these questions:
 
 How many songs released each year?
